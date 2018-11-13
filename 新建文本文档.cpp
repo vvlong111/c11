@@ -5,11 +5,11 @@
 int  main(void)
 {
 	
-	printf("hello world");
+	printf("hello world\n");
 	
+	int b = -1;
 	
-	
-	
+	printf("who i am\n");
 	
 	
 	
