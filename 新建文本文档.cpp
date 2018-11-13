@@ -11,7 +11,7 @@ int  main(void)
 	
 	printf("who i am\n");
 	
-	
+	int c = 0;
 	
 	
 	return 0;
